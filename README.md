@@ -1,5 +1,9 @@
 # Diff Seismograph
 
+![Diff Seismograph demo](media/demo.gif)
+
+*Band trace for small edits, a QUAKE M4.3 banner on a 150-line Write, then `/quake` with the repo heat map.* [Watch the MP4](https://github.com/ccdwyer/claude-mods/raw/main/media/diff-seismograph.mp4)
+
 A live seismograph of your session's edits, drawn in the terminal.
 
 - **The band above the prompt** scrolls a two-channel trace in solid block bars: additions swing up in green, removals down in red. Each edit rings out and decays like a seismometer, older samples fade like phosphor, and a faint hum keeps it alive while you work. The HUD row shows `+added −removed · files`.
