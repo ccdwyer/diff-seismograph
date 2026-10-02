@@ -1,0 +1,16 @@
+{
+  "name": "diff-seismograph",
+  "version": "0.1.0",
+  "description": "A live braille seismograph of every edit above the prompt, quake alerts for big changes, and a heat treemap of the repo",
+  "types": "./types/index.d.ts",
+  "license": "MIT",
+  "author": {
+    "name": "Chris Dwyer",
+    "url": "https://github.com/ccdwyer"
+  },
+  "repository": "https://github.com/ccdwyer/diff-seismograph",
+  "homepage": "https://github.com/ccdwyer/diff-seismograph",
+  "supportUrl": "https://github.com/ccdwyer/diff-seismograph/issues",
+  "documentationUrl": "https://github.com/ccdwyer/diff-seismograph#readme",
+  "privacyPolicyUrl": "https://github.com/ccdwyer/diff-seismograph/blob/main/PRIVACY.md"
+}
